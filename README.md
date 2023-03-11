@@ -49,6 +49,7 @@ Put your images in a directory on the sd card. In ```main.py``` adjust the IMAGE
 | SD_MISO    	| D10       	|
 | SD_SCK     	| D8        	|
 
+![1.8" TFT Display w/ sdcard](img/henry.jpg)  
 ![1.8" TFT Display w/ sdcard](img/TFT-Display.jpg)  
 ![Seeed Studio XIAO RP2040](img/xinpin.jpg)
 
